@@ -32,7 +32,7 @@ export const siteConfig = {
   businessHours: "",
 
   /** TODO(owner): Domain produksi, mis. "https://www.contoh.id" (tanpa slash akhir). Mengaktifkan canonical URL. */
-  siteUrl: "https://artaterateknologinusantara-star.github.io",
+  siteUrl: "https://clarea-design-space.netlify.app",
 
   seo: {
     title: "Clarea Design Space | Jasa Dekorasi Styrofoam Custom & Props 3D Event",
